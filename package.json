@@ -1,5 +1,5 @@
 {
-  "name": "@dxdeveloperexperience/codelab-generator",
+  "name": "sn/codelab-generator",
   "version": "1.0.9",
   "description": "",
   "main": "src/index.js",
@@ -9,7 +9,7 @@
     "mustache": "^3.1.0",
     "rimraf": "^3.0.0",
     "showdown": "^1.9.0",
-    "simple-git": "^1.126.0"
+    "simple-git": "^3.17.0"
   },
   "devDependencies": {
     "jest": "24.9.0"
@@ -17,15 +17,7 @@
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DX-DeveloperExperience/adoc-codelab.git"
-  },
   "author": "",
   "license": "MIT",
-  "bin": "./src/cli.js",
-  "bugs": {
-    "url": "https://github.com/DX-DeveloperExperience/adoc-codelab/issues"
-  },
-  "homepage": "https://github.com/DX-DeveloperExperience/adoc-codelab#readme"
+  "bin": "./src/cli.js"
 }
