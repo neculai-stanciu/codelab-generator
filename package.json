@@ -1,5 +1,5 @@
 {
-  "name": "sn/codelab-generator",
+  "name": "@sn/codelab-generator",
   "version": "1.0.9",
   "description": "",
   "main": "src/index.js",
